@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap');
+
+body {
+    background-color: mediumseagreen;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+header{
+    font-size: 30px;
+    margin-top: -30px;
+    margin-left: 10px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+img{
+    width: 600px;
+    margin-left: 100px;
+}
+p {
+    margin-left: 800px;
+}
+.hadiah {
+    margin-top: -860px;
+    color: white;
+}
+.yamin{
+    margin-left: 860px;
+}
+.Tujuan{
+    margin-left: 800px;
+    color: white;
+}
